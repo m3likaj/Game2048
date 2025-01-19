@@ -4,58 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5944fb1-1f58-487f-85a7-bf4f6095de88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Game2048.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/IntegratedAI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/PRI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/PRI3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/PRI_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/PRI_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/PRI_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/PRI_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/PRI_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/PRI_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/PlayIntegrated.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/ai.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_3_200.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_3_200.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_3_400.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_100.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_200.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_300.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_400.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_500.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/modelTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/play.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/plot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_5_model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_model.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_model_3.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_model_3.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_model_6.keras" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_6.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_7.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048PRI/Expectiminimax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048PRI/GUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048PRI/GUI2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048PRI/Game2048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048PRI/PRIDDQN8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048PRI/training_metrics_3.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048PRI/training_metrics_4.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2048PRI/training_metrics_5.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/old versions/run_2048_2.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plot.py" afterDir="false" />
-    </list>
+    <list default="true" id="a5944fb1-1f58-487f-85a7-bf4f6095de88" name="Changes" comment="updated files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "m3likaj"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/m3likaj/Game2048",
+    "accountId": "2d5c7c09-0c35-4ac7-9e39-79e4d9ca1795"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -256,11 +217,33 @@
       <workItem from="1736963713968" duration="712000" />
       <workItem from="1737008265405" duration="26690000" />
       <workItem from="1737121947466" duration="2389000" />
+      <workItem from="1737275966173" duration="611000" />
     </task>
+    <task id="LOCAL-00001" summary="updated files">
+      <option name="closed" value="true" />
+      <created>1737276075375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737276075375</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated files">
+      <option name="closed" value="true" />
+      <created>1737276158427</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737276158427</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated files" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Game2048$plot.coverage" NAME="plot Coverage Results" MODIFIED="1737033700147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
