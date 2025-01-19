@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5944fb1-1f58-487f-85a7-bf4f6095de88" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Game2048.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/IntegratedAI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/PRI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/PRI3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/PRI_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/PRI_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/PRI_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/PRI_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/PRI_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/PRI_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/PlayIntegrated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/ai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_3_200.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_3_200.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_3_400.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_100.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_200.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_300.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_400.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/ddqn_model_6_500.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/modelTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/plot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_5_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_model_3.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_model_3.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/trained_ddqn_model_6.keras" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048-main/training_metrics_7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048PRI/Expectiminimax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048PRI/GUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048PRI/GUI2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048PRI/Game2048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048PRI/PRIDDQN8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048PRI/training_metrics_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048PRI/training_metrics_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048PRI/training_metrics_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old versions/run_2048_2.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2rGSpl2K8loslQuFK4iel6fDKQ9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Expectiminimax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GUI2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Game2048.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PRIDDQN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PRIDDQN4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PRIDDQN6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PlayIntegrated.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ai.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_v3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_v3_GUI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_v4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_v6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_v7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.play.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/melika/PycharmProjects/Game2048/2048-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2048-main" />
+      <recent name="$PROJECT_DIR$/2048PRI" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/old versions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main_v3_GUI">
+    <configuration name="PRIDDQN8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game2048" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2048PRI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2048PRI/PRIDDQN8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_v3_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game2048" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old versions/main_v3_GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_v4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game2048" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_v4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_v7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Game2048" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old versions/main_v7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main_v3_GUI" />
+        <item itemvalue="Python.PRIDDQN8" />
+        <item itemvalue="Python.main_v7" />
+        <item itemvalue="Python.main_v4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5944fb1-1f58-487f-85a7-bf4f6095de88" name="Changes" comment="" />
+      <created>1736184104124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736184104124</updated>
+      <workItem from="1736184105122" duration="10277000" />
+      <workItem from="1736238191051" duration="3143000" />
+      <workItem from="1736244936482" duration="12000" />
+      <workItem from="1736251029481" duration="462000" />
+      <workItem from="1736253068037" duration="15990000" />
+      <workItem from="1736279075661" duration="3591000" />
+      <workItem from="1736315675639" duration="6198000" />
+      <workItem from="1736349678983" duration="7175000" />
+      <workItem from="1736425782089" duration="32286000" />
+      <workItem from="1736487832919" duration="755000" />
+      <workItem from="1736492164782" duration="6394000" />
+      <workItem from="1736844109912" duration="27069000" />
+      <workItem from="1736943014569" duration="5150000" />
+      <workItem from="1736949231601" duration="3247000" />
+      <workItem from="1736963713968" duration="712000" />
+      <workItem from="1737008265405" duration="26690000" />
+      <workItem from="1737121947466" duration="2389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Game2048$plot.coverage" NAME="plot Coverage Results" MODIFIED="1737033700147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Game2048$PRIDDQN.coverage" NAME="PRIDDQN Coverage Results" MODIFIED="1736445351292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048PRI" />
+    <SUITE FILE_PATH="coverage/Game2048$play.coverage" NAME="play Coverage Results" MODIFIED="1737018165566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048-main" />
+    <SUITE FILE_PATH="coverage/Game2048$main_v3_GUI.coverage" NAME="main_v3_GUI Coverage Results" MODIFIED="1736968007359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Game2048$main_v6.coverage" NAME="main_v6 Coverage Results" MODIFIED="1736353573456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Game2048$PRIDDQN6.coverage" NAME="PRIDDQN6 Coverage Results" MODIFIED="1736483682720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048PRI" />
+    <SUITE FILE_PATH="coverage/Game2048$Expectiminimax.coverage" NAME="Expectiminimax Coverage Results" MODIFIED="1736883519812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048PRI" />
+    <SUITE FILE_PATH="coverage/Game2048$GUI2.coverage" NAME="GUI2 Coverage Results" MODIFIED="1737020462739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048PRI" />
+    <SUITE FILE_PATH="coverage/Game2048$PRIDDQN4.coverage" NAME="PRIDDQN4 Coverage Results" MODIFIED="1736482519783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048PRI" />
+    <SUITE FILE_PATH="coverage/Game2048$ai.coverage" NAME="ai Coverage Results" MODIFIED="1737018150176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048-main" />
+    <SUITE FILE_PATH="coverage/Game2048$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1737018808548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048PRI" />
+    <SUITE FILE_PATH="coverage/Game2048$main_v4.coverage" NAME="main_v4 Coverage Results" MODIFIED="1736328392380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Game2048$PlayIntegrated.coverage" NAME="PlayIntegrated Coverage Results" MODIFIED="1737018712330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048-main" />
+    <SUITE FILE_PATH="coverage/Game2048$main.coverage" NAME="main Coverage Results" MODIFIED="1736192252773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Game2048$Game2048.coverage" NAME="Game2048 Coverage Results" MODIFIED="1736946558273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2048PRI" />
+    <SUITE FILE_PATH="coverage/Game2048$main_v7.coverage" NAME="main_v7 Coverage Results" MODIFIED="1736497419400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Game2048$main_v3.coverage" NAME="main_v3 Coverage Results" MODIFIED="1736275568971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
